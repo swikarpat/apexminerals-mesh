@@ -2,7 +2,9 @@ from neo4j import GraphDatabase
 from typing import List, Dict
 
 class SupplyChainGraph:
-    def __init__(self, uri="bolt://localhost:7687", user="neo4j", password="password123"):
+    def __init__(self, user="neo4j", password="password123"):
+        # Automatically switch to Docker network if running in Docker, else use localhost
+        uri = os.getenv("NEO4J_URI", "bolt://localhost:7687")
         self.driver = GraphDatabase.driver(uri, auth=(user, password))
 
     def close(self):
