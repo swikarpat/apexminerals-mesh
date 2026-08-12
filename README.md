@@ -1,4 +1,4 @@
-# 🌐 ApexMinerals Mesh
+# 🌐 ApexMinerals Mesh, AI Platform
 
 **Artificial Intelligence (AI) Zero-Trust Agentic Supply Chain Intelligence for Critical Minerals**
 
