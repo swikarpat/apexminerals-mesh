@@ -1,4 +1,4 @@
-from typing import List, Dict
+from typing import List, Dict, Any
 from apexminerals.ml.ranking_engine import SupplierRankingEngine
 
 class DeterministicReplaySimulator:
