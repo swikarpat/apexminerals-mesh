@@ -1,6 +1,6 @@
 # 🌐 ApexMinerals Mesh
 
-**Zero-Trust Agentic Supply Chain Intelligence for Critical Minerals**
+**Artificial Intelligence Zero-Trust Agentic Supply Chain Intelligence for Critical Minerals**
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Next.js 14](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
