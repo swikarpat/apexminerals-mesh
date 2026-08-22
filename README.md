@@ -10,7 +10,11 @@
 ApexMinerals Mesh is an enterprise-grade, open-source AI architecture designed to secure, audit, and transparently map the global rare earth and critical minerals supply chain. Built to support the **2026 US-India Initiative on Critical and Emerging Technology (iCET)** and the **Minerals Security Partnership (MSP)**.
 
 This platform utilizes a **Zero-Trust Agentic Mesh**, **Deterministic FSM Runtimes**, and a **TaskRabbit-inspired Learning-to-Rank (LTR) ML Engine** to dynamically route defense procurement away from high-risk shadow ports and toward compliant, allied refineries.
+## 🌐 Enterprise Distributed Architecture 
 
+<p align="center">
+  <img src="architecture.svg" alt="Enterprise Architecture" width="100%"/>
+</p>
 ---
 <img width="1728" height="961" alt="Screenshot 2026-08-12 at 12 15 27 PM" src="https://github.com/user-attachments/assets/76ea3f31-21f8-442b-b32d-0fad1bbabd23" />
 <img width="1727" height="295" alt="Screenshot 2026-08-12 at 12 15 40 PM" src="https://github.com/user-attachments/assets/258f51b3-82ab-4ffb-b8d9-04708c40ec01" />
