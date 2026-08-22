@@ -16,8 +16,6 @@ This platform utilizes a **Zero-Trust Agentic Mesh**, **Deterministic FSM Runtim
   <img src="architecture.svg" alt="Enterprise Architecture" width="100%"/>
 </p>
 ---
-<img width="1728" height="961" alt="Screenshot 2026-08-12 at 12 15 27 PM" src="https://github.com/user-attachments/assets/76ea3f31-21f8-442b-b32d-0fad1bbabd23" />
-<img width="1727" height="295" alt="Screenshot 2026-08-12 at 12 15 40 PM" src="https://github.com/user-attachments/assets/258f51b3-82ab-4ffb-b8d9-04708c40ec01" />
 
 ## 🚀 Core Architecture & Features
 
